@@ -1,4 +1,4 @@
-# COMP3121
+# COMP3121 (Algorithms & Programming Techniques)
 A repository for all of my work in COMP3121 - Algorithms and Programming Techniques.
 
 ## Assignments
