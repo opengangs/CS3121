@@ -16,4 +16,11 @@ A repository for all of my work in COMP3121 - Algorithms and Programming Techniq
   * Q4: 20/20. No feedback given.
   * Q5: 20/20. No feedback given.
   
+* Assignment 3: 100/100.
+  * Q1: 20/20. No feedback given.
+  * Q2: 20/20. No feedback given.
+  * Q3: 20/20. No feedback given.
+  * Q4: 20/20. No feedback given.
+  * Q5: 20/20. No feedback given.
+  
 Final mark:
