@@ -23,4 +23,15 @@ A repository for all of my work in COMP3121 - Algorithms and Programming Techniq
   * Q4: 20/20. No feedback given.
   * Q5: 20/20. No feedback given.
   
-Final mark:
+* Assignment 4: 87/100.
+  * Q1: 20/20. No feedback given.
+  * Q2: 20/20. No feedback given.
+  * Q3: 18/30. Feedback: "inaccurate recursion".
+  * Q4: 29/30. Feedback: "inaccurate time complexity".
+  
+* Assignment 5: 60/60.
+  * Q1: 20/20. No feedback given.
+  * Q2: 20/20. No feedback given.
+  * Q3: 20/20. No feedback given.
+  
+Final assessment mark: 447/460 ~ 48.7/50
