@@ -23,11 +23,11 @@ A repository for all of my work in COMP3121 - Algorithms and Programming Techniq
   * Q4: 20/20. No feedback given.
   * Q5: 20/20. No feedback given.
   
-* Assignment 4: 87/100.
+* Assignment 4: 88/100.
   * Q1: 20/20. No feedback given.
   * Q2: 20/20. No feedback given.
   * Q3: 18/30. Feedback: "inaccurate recursion".
-  * Q4: 29/30. Feedback: "inaccurate time complexity".
+  * Q4: 30/30. Feedback: "inaccurate time complexity" (redacted, tutors don't mark time complexity).
   
 * Assignment 5: 60/60.
   * Q1: 20/20. No feedback given.
