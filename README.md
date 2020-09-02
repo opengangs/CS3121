@@ -34,4 +34,4 @@ A repository for all of my work in COMP3121 - Algorithms and Programming Techniq
   * Q2: 20/20. No feedback given.
   * Q3: 20/20. No feedback given.
   
-Final assessment mark: 448/460 ~ 48.8/50
+Final mark: 100 HD.
